@@ -275,7 +275,7 @@ option{
     filter: grayscale(100%);
 }
 .fb-img:hover{
-    /* filter: grayscale(0%); */
+    filter: grayscale(0%);
 }
 
 .yt-img{
